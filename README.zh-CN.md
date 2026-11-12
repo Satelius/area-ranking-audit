@@ -1,3 +1,5 @@
+![Area Ranking Audit — 区域排名与证据审查](assets/area-ranking-audit-banner.png)
+
 # Area Ranking Audit：ArcGIS Pro 区域排名审查工具
 
 [English](README.md)

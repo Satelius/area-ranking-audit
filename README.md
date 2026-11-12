@@ -1,3 +1,5 @@
+![Area Ranking Audit — Rank places. Reveal the evidence.](assets/area-ranking-audit-banner.png)
+
 # Area Ranking Audit for ArcGIS Pro
 
 [中文说明](README.zh-CN.md)
