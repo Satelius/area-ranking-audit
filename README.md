@@ -8,7 +8,7 @@
 
 **Make every recommendation show its evidence: how many samples support the score, and who drops out when assumptions change.**
 
-Area Ranking Audit helps analysts build candidate-level indicators and review regional rankings alongside the evidence behind them. It grew out of the GE5219 residential accessibility project, but accepts user-defined indicators and regions. This is an analytical workflow, not a new ranking algorithm.
+Area Ranking Audit helps analysts build candidate-level indicators and review regional rankings alongside the evidence behind them. It grew out of the [GE5219 residential accessibility project](https://github.com/Ranyix0302/5219finalproject), but accepts user-defined indicators and regions. This is an analytical workflow, not a new ranking algorithm.
 
 ## What it does
 
